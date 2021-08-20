@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487577538345",
+    "project_id": "homeyneal",
+    "storage_bucket": "homeyneal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487577538345:android:854f24d3d5f58ccaeef138",
+        "android_client_info": {
+          "package_name": "com.homeymeal.HomeyMeal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487577538345-2dtmejvhaiuu3b818m2rrnhpn0a9e6em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2oV7M_lTxJtCTE_reeNMjvYcW0_Tk1G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487577538345-2dtmejvhaiuu3b818m2rrnhpn0a9e6em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
